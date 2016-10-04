@@ -38,6 +38,7 @@
 #define BATTERY_LOWER 3.6          // Upper battery voltager for the battery percentage calculation
 #define TEMPERATURE_PRECISION 9    // Dallas temperature sensor precision
 
+//--- Communication status
 #define OK 0
 #define PACKET_NOT_SENT -1
 #define PACKET_SENT_OK 0
